@@ -129,4 +129,4 @@ Este projeto é de uso livre para fins educacionais e comerciais conforme as met
 2. Crie uma Branch para sua feature (`git checkout -b feature/nova-feature`).
 3. Dê um Commit em suas alterações (`git commit -m 'Adiciona nova feature'`).
 4. Dê um Push na Branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
+5. Abra um Pull Request e conquiste.
